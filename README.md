@@ -3,6 +3,7 @@
 Create beautiful, responsive invoices directly in your browser — no backend, no setup, just open and use.
 
 ![Preview](./assets/preview.jpeg)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Features
 
