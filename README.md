@@ -2,7 +2,7 @@
 
 Create beautiful, responsive invoices directly in your browser — no backend, no setup, just open and use.
 
-![Preview](preview.jpeg)
+![Preview](./assets/preview.jpeg)
 
 ## ✨ Features
 
